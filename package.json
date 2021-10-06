@@ -1,0 +1,15 @@
+{
+  "name": "twilio-call-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "parth <parthchauhan1608@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "8.2.0",
+    "twilio": "3.50.0"
+  }
+}
